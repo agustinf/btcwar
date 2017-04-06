@@ -13,3 +13,5 @@ sass:
 repository: agustinf/btcfork
 # Site theme
 #theme: jekyll-theme-minimal
+
+theme: jekyll-theme-slate
