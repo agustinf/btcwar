@@ -1,0 +1,15 @@
+# Jekyll! config
+
+# Site settings
+title: BTC Fork Club
+
+# Build settings
+markdown: kramdown
+
+# Sass style
+sass:
+  style: compressed
+
+repository: agustinf/btcfork
+# Site theme
+#theme: jekyll-theme-minimal
